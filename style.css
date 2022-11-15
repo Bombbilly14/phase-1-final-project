@@ -1,0 +1,21 @@
+#top-bar {
+    padding: 25px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#character-image-div {
+    padding-block:100px;
+    background-color: lightgreen;
+}
+
+#form-div {
+    padding:50px;
+    background-color: lightcoral;
+
+}
+
+#currently-watched-div {
+    padding: 100px;
+    background-color: black;
+}
